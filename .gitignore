@@ -3,3 +3,4 @@ dist
 src/logs/*
 public/*
 config/*.json
+!config/default.json
